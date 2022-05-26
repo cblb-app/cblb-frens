@@ -1,0 +1,46 @@
+[
+  {
+    "name": {
+      "zh": "哔哔大队",
+      "en": "BiBiCrew"
+    },
+    "twitter": "",
+    "website": "",
+    "discord": "",
+    "avatar": "BiBiCrew.jpg",
+    "banner": "BiBiCrew_banner.jpg"
+  },
+  {
+    "name": {
+      "zh": "W+",
+      "en": "W+"
+    },
+    "twitter": "",
+    "website": "",
+    "discord": "https://discord.com/invite/XSwCe4rE2A",
+    "avatar": "w+.jpg",
+    "banner": "w+.jpg"
+  },
+  {
+    "name": {
+      "zh": "干饭猴",
+      "en": "GohanGo!!"
+    },
+    "twitter": "GohanGoNFT",
+    "website": "https://www.gohango.art/",
+    "discord": "https://discord.com/invite/GSgmWYQUPD",
+    "avatar": "GohanGoNFT.jpg",
+    "banner": "GohanGoNFT_banner.jpg"
+  },
+  {
+    "name": {
+      "zh": "My First NFT☝",
+      "en": "My First NFT☝"
+    },
+    "twitter": "mfnft_official",
+    "website": "https://myfirstnft.info/",
+    "discord": "https://discord.com/invite/CMn25cfgtJ",
+    "avatar": "mfnft_official.jpg",
+    "banner": "mfnft_official_banner.jpg"
+  }
+]
