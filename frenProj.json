@@ -53,5 +53,16 @@
     "discord": "https://discord.com/invite/CMn25cfgtJ",
     "avatar": "mfnft_official.png",
     "banner": "mfnft_official_banner.jpg"
+  },
+  {
+    "name": {
+      "zh": "3ean",
+      "en": "3ean"
+    },
+    "twitter": "3eanStudio",
+    "website": "http://www.3ean.io/",
+    "discord": "https://dsc.gg/3ean",
+    "avatar": "3eanStudio.jpg",
+    "banner": "3eanStudio_banner.jpeg"
   }
 ]
