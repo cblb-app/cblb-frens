@@ -12,6 +12,17 @@
   },
   {
     "name": {
+      "zh": "Hitchhiker of star",
+      "en": "Hitchhiker of star"
+    },
+    "twitter": "HitchikerOS",
+    "website": "https://www.hitchhikerofstar.xyz/",
+    "discord": "https://discord.gg/58K7XEJm7d",
+    "avatar": "HitchikerOS.jpg",
+    "banner": "HitchikerOS_banner.jpeg"
+  },
+  {
+    "name": {
       "zh": "W+",
       "en": "W+"
     },
